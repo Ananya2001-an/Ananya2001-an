@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-##I am Ananya. 
+## I am Ananya. 
 I am pursuing my graduate course in IT at the moment. I have a huge inclination towards new technologies that have the ability to change the way we live. 
 I am quite proficient in web development but I am also very enthusiastic about data science and would definitely love to dive deeper in it.  
 
