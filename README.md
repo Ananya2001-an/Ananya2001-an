@@ -6,8 +6,8 @@
 Here are some ideas to get you started:-->
 
 ## I am Ananya. 
-I am pursuing my graduate course in IT at the moment. I have a huge inclination towards new technologies that have the ability to change the way we live. 
-I am quite proficient in web development but I am also very enthusiastic about data science and would definitely love to dive deeper in it.  
+I am pursuing my Bachelor's Degree in Information Technology at the moment.
+I have done a lot of work in web development but I am also very interested in the field of Machine Learning.  
 
 - 🌱 I’m currently trying to get my way around 'Machine Learning' and 'Neural Networks'.
 - 📫 How to reach me: ananyanayak102@gmail.com
