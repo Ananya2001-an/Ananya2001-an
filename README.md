@@ -83,4 +83,6 @@
 
 </p>
 
+<!--START_SECTION:activity-->
+
 [![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ananya2001-an&theme=github-compact)](https://github.com/Ananya2001-an/github-readme-activity-graph)
