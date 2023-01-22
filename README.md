@@ -14,3 +14,4 @@ I have done a lot of work in web development but I am also very interested in th
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I will never love CSS even if I ever get good at it 😂.
 
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya2001-an&show_icons=true&theme=tokyonight)
