@@ -83,10 +83,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#278](https://github.com/EddieHubCommunity/good-first-issue-finder/issues/278) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
-2. 🗣 Commented on [#3803](https://github.com/EddieHubCommunity/LinkFree/issues/3803) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🗣 Commented on [#3836](https://github.com/EddieHubCommunity/LinkFree/issues/3836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 💪 Opened PR [#3836](https://github.com/EddieHubCommunity/LinkFree/pull/3836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗️ Opened issue [#6554](https://github.com/EddieHubCommunity/support/issues/6554) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Opened issue [#3849](https://github.com/EddieHubCommunity/LinkFree/issues/3849) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❗️ Opened issue [#278](https://github.com/EddieHubCommunity/good-first-issue-finder/issues/278) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
+3. 🗣 Commented on [#3803](https://github.com/EddieHubCommunity/LinkFree/issues/3803) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🗣 Commented on [#3836](https://github.com/EddieHubCommunity/LinkFree/issues/3836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 💪 Opened PR [#3836](https://github.com/EddieHubCommunity/LinkFree/pull/3836) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
