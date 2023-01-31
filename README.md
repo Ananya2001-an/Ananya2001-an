@@ -86,7 +86,7 @@
 1. 🗣 Commented on [#4030](https://github.com/EddieHubCommunity/LinkFree/issues/4030) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 2. 🗣 Commented on [#4030](https://github.com/EddieHubCommunity/LinkFree/issues/4030) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 3. 🗣 Commented on [#4030](https://github.com/EddieHubCommunity/LinkFree/issues/4030) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#827](https://github.com/reactplay/react-play/issues/827) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. ❗️ Closed issue [#2](https://github.com/Ananya2001-an/Write/issues/2) in [Ananya2001-an/Write](https://github.com/Ananya2001-an/Write)
+4. 🗣 Commented on [#4030](https://github.com/EddieHubCommunity/LinkFree/issues/4030) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#827](https://github.com/reactplay/react-play/issues/827) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 
