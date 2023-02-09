@@ -83,10 +83,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Ananya2001-an/githubwars/issues/3) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-2. 🎉 Merged PR [#6](https://github.com/Ananya2001-an/githubwars/pull/6) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-3. 🎉 Merged PR [#7](https://github.com/Ananya2001-an/githubwars/pull/7) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-4. 💪 Opened PR [#7](https://github.com/Ananya2001-an/githubwars/pull/7) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-5. 🗣 Commented on [#6](https://github.com/Ananya2001-an/githubwars/issues/6) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+1. 🗣 Commented on [#8](https://github.com/Ananya2001-an/githubwars/issues/8) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+2. 🗣 Commented on [#5](https://github.com/Ananya2001-an/githubwars/issues/5) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+3. ❗️ Closed issue [#3](https://github.com/Ananya2001-an/githubwars/issues/3) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+4. 🎉 Merged PR [#6](https://github.com/Ananya2001-an/githubwars/pull/6) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+5. 🎉 Merged PR [#7](https://github.com/Ananya2001-an/githubwars/pull/7) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
 <!--END_SECTION:activity-->
 
