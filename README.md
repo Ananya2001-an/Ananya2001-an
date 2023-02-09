@@ -83,10 +83,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Ananya2001-an/githubwars/issues/1) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-2. 🗣 Commented on [#1](https://github.com/Ananya2001-an/githubwars/issues/1) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-3. 🗣 Commented on [#827](https://github.com/reactplay/react-play/issues/827) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#289](https://github.com/EddieHubCommunity/good-first-issue-finder/issues/289) in [EddieHubCommunity/good-first-issue-finder](https://github.com/EddieHubCommunity/good-first-issue-finder)
-5. 🗣 Commented on [#4445](https://github.com/EddieHubCommunity/LinkFree/issues/4445) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#5](https://github.com/Ananya2001-an/githubwars/issues/5) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+2. ❗️ Opened issue [#4](https://github.com/Ananya2001-an/githubwars/issues/4) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+3. ❗️ Opened issue [#3](https://github.com/Ananya2001-an/githubwars/issues/3) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+4. ❗️ Closed issue [#1](https://github.com/Ananya2001-an/githubwars/issues/1) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+5. 🗣 Commented on [#1](https://github.com/Ananya2001-an/githubwars/issues/1) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
 <!--END_SECTION:activity-->
 
