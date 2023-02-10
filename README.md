@@ -83,10 +83,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Ananya2001-an/note/pull/1) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
-2. 🗣 Commented on [#20](https://github.com/Ananya2001-an/githubwars/issues/20) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-3. ❗️ Opened issue [#19](https://github.com/Ananya2001-an/githubwars/issues/19) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-4. ❗️ Opened issue [#18](https://github.com/Ananya2001-an/githubwars/issues/18) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-5. ❗️ Opened issue [#6750](https://github.com/EddieHubCommunity/support/issues/6750) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#1](https://github.com/Ananya2001-an/note/pull/1) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
+2. 💪 Opened PR [#1](https://github.com/Ananya2001-an/note/pull/1) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
+3. 🗣 Commented on [#20](https://github.com/Ananya2001-an/githubwars/issues/20) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+4. ❗️ Opened issue [#19](https://github.com/Ananya2001-an/githubwars/issues/19) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
+5. ❗️ Opened issue [#18](https://github.com/Ananya2001-an/githubwars/issues/18) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
 <!--END_SECTION:activity-->
 
