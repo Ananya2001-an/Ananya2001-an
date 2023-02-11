@@ -74,10 +74,6 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya2001-an&show_icons=true&theme=tokyonight"/>
-</p>
-
 [![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ananya2001-an&theme=github-compact)](https://github.com/Ananya2001-an/github-readme-activity-graph)
 
 ### ⚡ Recent Activity
