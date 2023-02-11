@@ -76,13 +76,3 @@
 
 [![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ananya2001-an&theme=github-compact)](https://github.com/Ananya2001-an/github-readme-activity-graph)
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Ananya2001-an/githubwars/pull/20) in [Ananya2001-an/githubwars](https://github.com/Ananya2001-an/githubwars)
-2. 🎉 Merged PR [#2](https://github.com/Ananya2001-an/note/pull/2) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
-3. 💪 Opened PR [#2](https://github.com/Ananya2001-an/note/pull/2) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
-4. 🎉 Merged PR [#1](https://github.com/Ananya2001-an/note/pull/1) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
-5. 💪 Opened PR [#1](https://github.com/Ananya2001-an/note/pull/1) in [Ananya2001-an/note](https://github.com/Ananya2001-an/note)
-<!--END_SECTION:activity-->
-
