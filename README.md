@@ -1,9 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Ananya 👩 </h1> 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"/>
-</p>
-
 <p align="center">You can connect with me on the below socials. I also have a Hashnode blogging account so feel free to read my latest blogs✒</p>
 
 <p align="center">
