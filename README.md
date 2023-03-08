@@ -18,8 +18,17 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- ['Ananya' in 'Open Source Wonderland'🐙](https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland)
-- [Docker installation on Windows with WSL2 backend](https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend)
+<p align="left">
+<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wX2L8L-fGeA/upload/fd0b986cead64299b3c774c693145480.jpeg" alt="'Ananya' in 'Open Source Wonderland'🐙" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><strong>'Ananya' in 'Open Source Wonderland'🐙</strong></a>
+<div><strong>5 Feb 2023</strong> | <strong>Updated: 20 Feb 2023</strong></div>
+<br/> Very catchy, huh? Well, it does summarize my journey into open-source till now. I feel open-source is this big ocean of opportunities in which every developer must dive once at least. It can teach you new skills, get you a job, make connections with ... </p> <br/> <br/>
+<p align="left">
+<a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674208596339/30c17bfa-3b5e-4d21-83bc-d012ffcabdb3.png" alt="Docker installation on Windows with WSL2 backend" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><strong>Docker installation on Windows with WSL2 backend</strong></a>
+<div><strong>20 Jan 2023</strong> | <strong>Updated: 21 Jan 2023</strong></div>
+<br/> Well, I have finally decided to start my blogging journey with this very first article on how to install docker🐳 on your windows pc💻.
+Recently I started learning about DevOps and I can't explain how happy😄 I am to make this decision. But before I ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <table>
