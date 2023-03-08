@@ -1,32 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/55504616/223646575-7ca2f90e-561e-4f0e-ac54-681860bf29ed.png)
 
-<p align="center">You can connect with me on the below socials. I also have a Hashnode blogging account so feel free to read my latest blogs✒</p>
-
-<p align="center">
-  <a href="http://twitter.com/Ananya_codes">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Ananya Nayak's Twitter"/>
-  </a>
-  <a href="https://ananyacodes.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Ananya Nayak's Blog"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ananya-nayak-9bb2a4231/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya Nayak's LinkedIn"/>
-  </a>
-</p> 
-
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678263631292/fd6ccc3a-9e29-4aa5-b90e-7f5ba57b70c5.png" alt="'Ananya' in 'Open Source Wonderland'🐙" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><strong>'Ananya' in 'Open Source Wonderland'🐙</strong></a>
-<br/> Very catchy, huh? Well, it does summarize my journey into open-source till now. I feel open-source is this big ocean of opportunities in which every developer must dive once at least. It can teach you new skills, get you a job, make connections with ... </p> <br/> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678262476865/58ebb917-a5b4-41c6-b997-f0fdce7c84b7.png" alt="Docker installation on Windows with WSL2 backend" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><strong>Docker installation on Windows with WSL2 backend</strong></a>
-<br/> Well, I have finally decided to start my blogging journey with this very first article on how to install docker🐳 on your windows pc💻.
-Recently I started learning about DevOps and I can't explain how happy😄 I am to make this decision. But before I ... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
 <table>
 <tr>
  <th>About Me</th>
@@ -76,4 +49,17 @@ Recently I started learning about DevOps and I can't explain how happy😄 I am 
   </td>
 </tr>
 </table>
+
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678263631292/fd6ccc3a-9e29-4aa5-b90e-7f5ba57b70c5.png" alt="'Ananya' in 'Open Source Wonderland'🐙" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><strong>'Ananya' in 'Open Source Wonderland'🐙</strong></a>
+<br/> Very catchy, huh? Well, it does summarize my journey into open-source till now. I feel open-source is this big ocean of opportunities in which every developer must dive once at least. It can teach you new skills, get you a job, make connections with ... </p> <br/> <br/> <br/>
+<p align="left">
+<a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678262476865/58ebb917-a5b4-41c6-b997-f0fdce7c84b7.png" alt="Docker installation on Windows with WSL2 backend" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><strong>Docker installation on Windows with WSL2 backend</strong></a>
+<br/> Well, I have finally decided to start my blogging journey with this very first article on how to install docker🐳 on your windows pc💻.
+Recently I started learning about DevOps and I can't explain how happy😄 I am to make this decision. But before I ... </p> <br/> <br/>
+<!-- HASHNODE_BLOG:END -->
 
