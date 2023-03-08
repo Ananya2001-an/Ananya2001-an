@@ -1,5 +1,3 @@
-<h1 align="center"> Hi there 👋 I am Ananya 👩 </h1> 
-
 ![Banner](https://user-images.githubusercontent.com/55504616/223646575-7ca2f90e-561e-4f0e-ac54-681860bf29ed.png)
 
 <p align="center">You can connect with me on the below socials. I also have a Hashnode blogging account so feel free to read my latest blogs✒</p>
@@ -21,8 +19,7 @@
 <p align="left">
 <a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678263631292/fd6ccc3a-9e29-4aa5-b90e-7f5ba57b70c5.png" alt="'Ananya' in 'Open Source Wonderland'🐙" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><strong>'Ananya' in 'Open Source Wonderland'🐙</strong></a>
-<br/> Very catchy, huh? Well, it does summarize my journey into open-source till now. I feel open-source is this big ocean of opportunities in which every developer must dive once at least. It can teach you new skills, get you a job, make connections with ... </p> <br/> <br/><br/>
-
+<br/> Very catchy, huh? Well, it does summarize my journey into open-source till now. I feel open-source is this big ocean of opportunities in which every developer must dive once at least. It can teach you new skills, get you a job, make connections with ... </p> <br/> <br/> <br/>
 <p align="left">
 <a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678262476865/58ebb917-a5b4-41c6-b997-f0fdce7c84b7.png" alt="Docker installation on Windows with WSL2 backend" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/docker-installation-on-windows-with-wsl2-backend" title="Docker installation on Windows with WSL2 backend"><strong>Docker installation on Windows with WSL2 backend</strong></a>
