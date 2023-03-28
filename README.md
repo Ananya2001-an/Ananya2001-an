@@ -53,12 +53,12 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ananyacodes.hashnode.dev/how-to-understand-a-big-codebase" title="How to understand a big codebase???"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679679451333/695121bc-cd1c-4b99-9ca4-179e1b142b97.png" alt="How to understand a big codebase???" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/how-to-understand-a-big-codebase" title="How to understand a big codebase???"><strong>How to understand a big codebase???</strong></a>
+<br/> Open source is taking over the world! You want to start contributing as well but get stuck because of one hurdle. The dreaded CODEBASE 😱. Yes, it's a nightmare when you feel like you need to go through hundreds of files and folders just to make a sm... </p> <br/> <br/>
+<p align="left">
 <a href="https://ananyacodes.hashnode.dev/lets-build-a-nodejs-project-rest-api" title="Let's build a Node.js project (REST API)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679244163127/cdb0af10-80d3-49c6-a823-214340bdbfb0.png" alt="Let's build a Node.js project (REST API)" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/lets-build-a-nodejs-project-rest-api" title="Let's build a Node.js project (REST API)"><strong>Let's build a Node.js project (REST API)</strong></a>
 <br/> Backend lovers, this is for you! Today I am starting with this development series where I will be talking about all things BUILD. This is the very first article in this series. We will be building a node.js project and learning how to develop a REST ... </p> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678263631292/fd6ccc3a-9e29-4aa5-b90e-7f5ba57b70c5.png" alt="'Ananya' in 'Open Source Wonderland'🐙" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/ananya-in-open-source-wonderland" title="'Ananya' in 'Open Source Wonderland'🐙"><strong>'Ananya' in 'Open Source Wonderland'🐙</strong></a>
-<br/> Very catchy, huh? Well, it does summarize my journey into open-source till now. I feel open-source is this big ocean of opportunities in which every developer must dive once at least. It can teach you new skills, get you a job, make connections with ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
