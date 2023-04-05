@@ -53,12 +53,13 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ananyacodes.hashnode.dev/important-git-commands-and-concepts" title="Important Git commands and concepts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680274438248/259cdba9-9bed-42c9-addb-7a2f5401644c.png" alt="Important Git commands and concepts" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/important-git-commands-and-concepts" title="Important Git commands and concepts"><strong>Important Git commands and concepts</strong></a>
+<br/> If you are interested in open source, it's crucial to learn Git. In this article, I'll cover essential Git concepts and commands. While you may be familiar with some of them, understanding how to apply them in specific scenarios is critical.
+First of... </p> <br/> <br/>
+<p align="left">
 <a href="https://ananyacodes.hashnode.dev/how-to-understand-a-big-codebase" title="How to understand a big codebase???"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679679451333/695121bc-cd1c-4b99-9ca4-179e1b142b97.png" alt="How to understand a big codebase???" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/how-to-understand-a-big-codebase" title="How to understand a big codebase???"><strong>How to understand a big codebase???</strong></a>
 <br/> Open source is taking over the world! You want to start contributing as well but get stuck because of one hurdle. The dreaded CODEBASE 😱. Yes, it's a nightmare when you feel like you need to go through hundreds of files and folders just to make a sm... </p> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/lets-build-a-nodejs-project-rest-api" title="Let's build a Node.js project (REST API)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679244163127/cdb0af10-80d3-49c6-a823-214340bdbfb0.png" alt="Let's build a Node.js project (REST API)" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/lets-build-a-nodejs-project-rest-api" title="Let's build a Node.js project (REST API)"><strong>Let's build a Node.js project (REST API)</strong></a>
-<br/> Backend lovers, this is for you! Today I am starting with this development series where I will be talking about all things BUILD. This is the very first article in this series. We will be building a node.js project and learning how to develop a REST ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
