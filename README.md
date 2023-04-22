@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/55504616/223646575-7ca2f90e-561e-4f0e-ac54-681860bf29ed.png)
+![Banner](https://user-images.githubusercontent.com/55504616/233784586-533d60c7-2ec6-42d4-9817-88f7dcee1062.png)
+)
 
 <table>
 <tr>
