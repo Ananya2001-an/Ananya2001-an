@@ -1,5 +1,4 @@
 ![Banner](https://user-images.githubusercontent.com/55504616/233784586-533d60c7-2ec6-42d4-9817-88f7dcee1062.png)
-)
 
 <table>
 <tr>
