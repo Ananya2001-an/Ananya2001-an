@@ -53,13 +53,14 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ananyacodes.hashnode.dev/using-github-actions-to-automate-tests" title="Using GitHub Actions to automate tests"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685085722271/c018dec9-e8c7-4863-a803-f3530d45916b.png" alt="Using GitHub Actions to automate tests" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/using-github-actions-to-automate-tests" title="Using GitHub Actions to automate tests"><strong>Using GitHub Actions to automate tests</strong></a>
+<br/> Automation is really important for performing mundane and redundant tasks like testing. When someone raises a new PR for your project, it's nice to have some tests running automatically. This saves a lot of your time in reviewing the code.
+Testing ca... </p> <br/> <br/>
+<p align="left">
 <a href="https://ananyacodes.hashnode.dev/important-git-commands-and-concepts" title="Important Git commands and concepts"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680274438248/259cdba9-9bed-42c9-addb-7a2f5401644c.png" alt="Important Git commands and concepts" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/important-git-commands-and-concepts" title="Important Git commands and concepts"><strong>Important Git commands and concepts</strong></a>
 <br/> If you are interested in open source, it's crucial to learn Git. In this article, I'll cover essential Git concepts and commands. While you may be familiar with some of them, understanding how to apply them in specific scenarios is critical.
 First of... </p> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/how-to-understand-a-big-codebase" title="How to understand a big codebase???"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679679451333/695121bc-cd1c-4b99-9ca4-179e1b142b97.png" alt="How to understand a big codebase???" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/how-to-understand-a-big-codebase" title="How to understand a big codebase???"><strong>How to understand a big codebase???</strong></a>
-<br/> Open source is taking over the world! You want to start contributing as well but get stuck because of one hurdle. The dreaded CODEBASE 😱. Yes, it's a nightmare when you feel like you need to go through hundreds of files and folders just to make a sm... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
