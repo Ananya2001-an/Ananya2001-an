@@ -31,6 +31,11 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ananyacodes.hashnode.dev/lets-build-a-cli-app-with-supabase" title="Let's build a CLI app with Supabase⚡"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688658946767/e5086039-c9fc-443f-b0c9-87440c7a8b25.png" alt="Let's build a CLI app with Supabase⚡" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/lets-build-a-cli-app-with-supabase" title="Let's build a CLI app with Supabase⚡"><strong>Let's build a CLI app with Supabase⚡</strong></a>
+<br/> What are we building? 👩‍💻
+Hey peeps! I am excited to write this article since I love building CLI tools and I think you should too :) It's really fun and most importantly, so easy to make! Let's talk about what we are going to learn by making this ... </p> <br/> <br/>
+<p align="left">
 <a href="https://ananyacodes.hashnode.dev/term-chat-a-command-line-chat-application" title="TERM-CHAT: A command-line chat application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685611403110/a90c6cab-4797-4000-9a80-b4fe3a2f715f.png" alt="TERM-CHAT: A command-line chat application" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/term-chat-a-command-line-chat-application" title="TERM-CHAT: A command-line chat application"><strong>TERM-CHAT: A command-line chat application</strong></a>
 <br/> Want to know how it works? Check out the demo 📺
@@ -40,10 +45,5 @@ Who all worked on it 👩‍💻
 I was the sole contributor to this project.... but might look for collaborators in the future ;)
 
 Ananya Nayak - Ananya Nayak (Hashnode usernam... </p> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/using-github-actions-to-automate-tests" title="Using GitHub Actions to automate tests"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685085722271/c018dec9-e8c7-4863-a803-f3530d45916b.png" alt="Using GitHub Actions to automate tests" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/using-github-actions-to-automate-tests" title="Using GitHub Actions to automate tests"><strong>Using GitHub Actions to automate tests</strong></a>
-<br/> Automation is really important for performing mundane and redundant tasks like testing. When someone raises a new PR for your project, it's nice to have some tests running automatically. This saves a lot of your time in reviewing the code.
-Testing ca... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
