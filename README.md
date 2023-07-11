@@ -31,19 +31,14 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ananyacodes.hashnode.dev/my-first-remote-internship-experience" title="My First Remote Internship Experience 👩‍💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689059041845/2de755e0-7920-4199-a165-0c7ad22fdfc3.png" alt="My First Remote Internship Experience 👩‍💻" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/my-first-remote-internship-experience" title="My First Remote Internship Experience 👩‍💻"><strong>My First Remote Internship Experience 👩‍💻</strong></a>
+<br/> I'm excited to share my experience of my first remote job with you all. It was a remarkable 3-month internship at GIS-OPS, an organization located in Berlin, Germany. Join me as I take you through the journey, starting right from the beginning.
+How I... </p> <br/> <br/>
+<p align="left">
 <a href="https://ananyacodes.hashnode.dev/lets-build-a-cli-app-with-supabase" title="Let's build a CLI app with Supabase⚡"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688658946767/e5086039-c9fc-443f-b0c9-87440c7a8b25.png" alt="Let's build a CLI app with Supabase⚡" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/lets-build-a-cli-app-with-supabase" title="Let's build a CLI app with Supabase⚡"><strong>Let's build a CLI app with Supabase⚡</strong></a>
 <br/> What are we building? 👩‍💻
 Hey peeps! I am excited to write this article since I love building CLI tools and I think you should too :) It's really fun and most importantly, so easy to make! Let's talk about what we are going to learn by making this ... </p> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/term-chat-a-command-line-chat-application" title="TERM-CHAT: A command-line chat application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685611403110/a90c6cab-4797-4000-9a80-b4fe3a2f715f.png" alt="TERM-CHAT: A command-line chat application" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/term-chat-a-command-line-chat-application" title="TERM-CHAT: A command-line chat application"><strong>TERM-CHAT: A command-line chat application</strong></a>
-<br/> Want to know how it works? Check out the demo 📺
-https://youtu.be/rvaH44UK5Ig
- 
-Who all worked on it 👩‍💻
-I was the sole contributor to this project.... but might look for collaborators in the future ;)
-
-Ananya Nayak - Ananya Nayak (Hashnode usernam... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
