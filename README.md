@@ -42,3 +42,5 @@ How I... </p> <br/> <br/>
 Hey peeps! I am excited to write this article since I love building CLI tools and I think you should too :) It's really fun and most importantly, so easy to make! Let's talk about what we are going to learn by making this ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+## Achievements🏆
+- First Overall🥇 - TechTogether Hackathon by MLH 2023 [`Rainbow`](https://github.com/Ananya2001-an/Rainbow)
