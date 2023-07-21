@@ -10,7 +10,7 @@
  <td width="70%">
    <ul>
      <li> I recently realized my love for building CLI tools 💖 </li>
-     <li> Currently learning DevOps♾️ and also writing tech blogs in my free time⌛ </li>
+     <li> Currently learning DevOps ♾️ and also writing tech blogs in my free time⌛ </li>
      <li> Waiting for my first talk someday :) </li>
      <li> Feel free to reach me at: <b>ananyanayak102@gmail.com</b> 📫 </li>
    </ul> 
