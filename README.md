@@ -43,4 +43,5 @@ Hey peeps! I am excited to write this article since I love building CLI tools an
 <!-- HASHNODE_BLOG:END -->
 
 ## Achievements🏆
-- First Overall🥇 - TechTogether Hackathon by MLH 2023 [`Rainbow`](https://github.com/Ananya2001-an/Rainbow)
+- Third Overall🥉- Hacks for Hackers Hackathon by MLH 2023 [`Architect`](https://github.com/Ananya2001-an/Architect)
+- First Overall🥇- TechTogether Hackathon by MLH 2023 [`Rainbow`](https://github.com/Ananya2001-an/Rainbow)
