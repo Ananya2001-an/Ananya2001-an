@@ -31,15 +31,16 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://ananyacodes.hashnode.dev/cicd-with-azure-devops" title="CI/CD with Azure DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693060615849/0080a1a7-c6a8-46c2-812b-4120d1f17551.png" alt="CI/CD with Azure DevOps" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/cicd-with-azure-devops" title="CI/CD with Azure DevOps"><strong>CI/CD with Azure DevOps</strong></a>
+<br/> Cloud computing is an integral part of DevOps and getting familiar with one of the most famous cloud services like "Azure" can be helpful in your cloud journey.
+
+If you are a student then you can apply for the Azure for Students plan to get 100$ free... </p> <br/> <br/>
+<p align="left">
 <a href="https://ananyacodes.hashnode.dev/my-first-remote-internship-experience" title="My First Remote Internship Experience 👩‍💻"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689059041845/2de755e0-7920-4199-a165-0c7ad22fdfc3.png" alt="My First Remote Internship Experience 👩‍💻" width="250px" align="left" /></a>
 <a href="https://ananyacodes.hashnode.dev/my-first-remote-internship-experience" title="My First Remote Internship Experience 👩‍💻"><strong>My First Remote Internship Experience 👩‍💻</strong></a>
 <br/> I'm excited to share my experience of my first remote job with you all. It was a remarkable 3-month internship at GIS-OPS, an organization located in Berlin, Germany. Join me as I take you through the journey, starting right from the beginning.
 How I... </p> <br/> <br/>
-<p align="left">
-<a href="https://ananyacodes.hashnode.dev/lets-build-a-cli-app-with-supabase" title="Let's build a CLI app with Supabase⚡"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688658946767/e5086039-c9fc-443f-b0c9-87440c7a8b25.png" alt="Let's build a CLI app with Supabase⚡" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/lets-build-a-cli-app-with-supabase" title="Let's build a CLI app with Supabase⚡"><strong>Let's build a CLI app with Supabase⚡</strong></a>
-<br/> What are we building? 👩‍💻
-Hey peeps! I am excited to write this article since I love building CLI tools and I think you should too :) It's really fun and most importantly, so easy to make! Let's talk about what we are going to learn by making this ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## Achievements🏆
