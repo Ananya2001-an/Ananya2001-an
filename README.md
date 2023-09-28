@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/55504616/233784586-533d60c7-2ec6-42d4-9817-88f7dcee1062.png)
-
 <table>
 <tr>
  <th>About Me</th>
@@ -10,8 +8,7 @@
  <td width="70%">
    <ul>
      <li> I recently realized my love for building CLI tools 💖 </li>
-     <li> Currently learning DevOps ♾️ and also writing tech blogs in my free time⌛ </li>
-     <li> Waiting for my first talk someday :) </li>
+     <li> Currently learning DevOps ♾️ </li>
      <li> Feel free to reach me at: <b>ananyanayak102@gmail.com</b> 📫 </li>
    </ul> 
 </td>
@@ -22,7 +19,6 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   </td>
