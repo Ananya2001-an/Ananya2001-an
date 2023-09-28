@@ -25,10 +25,12 @@
 </tr>
 </table>
 
+
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://ananyacodes.hashnode.dev/cicd-with-azure-devops" title="CI/CD with Azure DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693060615849/0080a1a7-c6a8-46c2-812b-4120d1f17551.png" alt="CI/CD with Azure DevOps" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/cicd-with-azure-devops" title="CI/CD with Azure DevOps"><strong>CI/CD with Azure DevOps</strong></a>
+<br/> Cloud computing is an integral part of DevOps and getting familiar with one of the most famous cloud services like "Azure" can be helpful in your cloud journey.
+ 
 <!-- HASHNODE_BLOG:END -->
-
-## Achievements🏆
-- Third Overall🥉- Hacks for Hackers Hackathon by MLH 2023 [`Architect`](https://github.com/Ananya2001-an/Architect)
-- First Overall🥇- TechTogether Hackathon by MLH 2023 [`Rainbow`](https://github.com/Ananya2001-an/Rainbow)
