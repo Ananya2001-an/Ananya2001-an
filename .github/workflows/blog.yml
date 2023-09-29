@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'Ananyacodes' # Hashnode Username
           BLOG_URL: 'https://ananyacodes.hashnode.dev' # Blog URL
-          COUNT: 2 # MAX Visible
+          COUNT: 1 # MAX Visible
           STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
