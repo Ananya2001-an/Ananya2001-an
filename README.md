@@ -28,7 +28,7 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://ananyacodes.hashnode.dev/cicd-with-azure-devops" title="CI/CD with Azure DevOps"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695923502795/a4835121-d1e5-4612-bade-2b6f2c15c3eb.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="CI/CD with Azure DevOps" width="250px" align="left" /></a>
-<a href="https://ananyacodes.hashnode.dev/cicd-with-azure-devops" title="CI/CD with Azure DevOps"><strong>CI/CD with Azure DevOps</strong></a>
-<br/> Cloud computing is an integral part of DevOps and getting familiar with one of the most famous cloud services like "Azure" can be helpful in your cloud journey.
+<a href="https://ananyacodes.hashnode.dev/deploy-mern-app-to-k8s-minikube" title="Deploy MERN App To K8s (Minikube)"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695982031034/ab72f016-33ac-4503-9083-0cd26b7d2cb7.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Deploy MERN App To K8s (Minikube)" width="250px" align="left" /></a>
+<a href="https://ananyacodes.hashnode.dev/deploy-mern-app-to-k8s-minikube" title="Deploy MERN App To K8s (Minikube)"><strong>Deploy MERN App To K8s (Minikube)</strong></a>
+<br/> In this article, we will see how one can deploy a full-stack app (MERN stack) to a K8s cluster. Here we will use the simple Minikube cluster.
 <!-- HASHNODE_BLOG:END -->
