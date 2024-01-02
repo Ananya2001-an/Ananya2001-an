@@ -7,7 +7,7 @@
 <tr>
  <td width="70%">
    <ul>
-     <li> I love for building SDKs and CLI tools 💖 </li>
+     <li> I love building SDKs and CLI tools 💖 </li>
      <li> Currently learning DevOps ♾️ </li>
      <li> Feel free to reach me at: <b>ananyanayak102@gmail.com</b> 📫 </li>
    </ul> 
