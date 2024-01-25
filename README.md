@@ -7,7 +7,7 @@
 <tr>
  <td width="70%">
    <ul>
-     <li> I love working on libraries, SDKs and CLI tools. </li>
+     <li> I love working on libraries, SDKs, CLI tools and web apps. </li>
      <li> I am proficient in Java and Python. </li>
      <li> Eager to learn about Cloud and DevOps. </li>
      <li> Feel free to reach me at: <b>ananyanayak102@gmail.com</b> 📫 </li>
